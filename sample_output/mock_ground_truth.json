@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "invoice_001",
+    "dealer_name": "ABC Tractors Pvt Ltd",
+    "model_name": "Mahindra 575 DI",
+    "horse_power": 50,
+    "asset_cost": 525000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        95,
+        195,
+        305,
+        255
+      ]
+    },
+    "stamp": {
+      "present": true,
+      "bbox": [
+        395,
+        495,
+        505,
+        555
+      ]
+    }
+  },
+  {
+    "doc_id": "invoice_002",
+    "dealer_name": "Kisan Motors",
+    "model_name": "Swaraj 744 FE",
+    "horse_power": 45,
+    "asset_cost": 480000,
+    "signature": {
+      "present": true,
+      "bbox": [
+        120,
+        220,
+        320,
+        270
+      ]
+    },
+    "stamp": {
+      "present": false,
+      "bbox": []
+    }
+  }
+]
